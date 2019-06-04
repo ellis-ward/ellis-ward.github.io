@@ -5,5 +5,5 @@ subtitle:
 ---
 
 
-
-<font face="Segoe UI Symbol"> :smirk: </font><br><br>
+<meta charset="UTF-8">
+:smirk:
