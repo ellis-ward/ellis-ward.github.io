@@ -42,7 +42,7 @@ title-img: “https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avata
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#42f4bf"
+navbar-col: "#48d1cc"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
