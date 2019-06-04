@@ -36,7 +36,7 @@ avatar: "https://avatars2.githubusercontent.com/u/40389301?s=460&v=4"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/74/7440061a394a123bdae4e3a4f670dcc3e9a992ae_full.jpg
+title-img: “https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/74/7440061a394a123bdae4e3a4f670dcc3e9a992ae_full.jpg”
 
 # --- Background colour/image options --- #
 
