@@ -4,4 +4,6 @@ title: About me
 subtitle:  
 ---
 
-:smirk:
+
+
+<font face="Segoe UI Symbol"> :smirk: </font><br><br>
