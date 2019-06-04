@@ -42,7 +42,7 @@ avatar: "https://avatars2.githubusercontent.com/u/40389301?s=460&v=4"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#42f4bf"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
