@@ -4,6 +4,6 @@ title: Sophie Ward as me
 subtitle:   
 ---
 
-<iframe class="youtube-player" type="text/html" width="640" height="385" 
-src="http://https://youtu.be/m-19ZMxdNgo" frameborder="0">
-</iframe>
+
+  <iframe src="http://https//youtu.be/m-19ZMxdNgo"
+   width="280" height="120" frameborder="0" allowfullscreen></iframe>
