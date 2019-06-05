@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MyLifeByMyFavouriteSisterInLaw
-subtitle:  Ellis by Sophie Ward
+subtitle:   Sophie Ward’s interpretation of me
 ---
 
 
