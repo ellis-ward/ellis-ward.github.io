@@ -24,6 +24,7 @@ description: A virtual proof that I am awesome!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  MyLifeByMyFavouriteSisterInLaw: “MyLifeByMyFavouriteSisterInLaw”
   # Resources:
     # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     # - Learn markdown: "http://www.markdowntutorial.com/"
