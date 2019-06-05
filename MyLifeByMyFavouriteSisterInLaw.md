@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MyLifeByMyFavouriteSisterInLaw
-subtitle:   Sophie Ward’s interpretation of me
+subtitle:   Sophie Ward as me
 ---
 
 
