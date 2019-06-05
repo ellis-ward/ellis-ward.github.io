@@ -5,6 +5,6 @@ subtitle:
 ---
 
 
-<iframe width="400" height="300"
+<iframe width="300" height="240"
 src="https://youtu.be/m-19ZMxdNgo">
 </iframe>
