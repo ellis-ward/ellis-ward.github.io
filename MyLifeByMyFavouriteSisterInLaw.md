@@ -1,7 +1,7 @@
 ---
 layout: page
-title: MyLifeByMyFavouriteSisterInLaw
-subtitle:   Sophie Ward as me
+title: Sophie Ward as me
+subtitle:   
 ---
 
 
