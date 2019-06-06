@@ -13,7 +13,8 @@ subtitle:
 <br>
 
 
-    <title>Dribble#1</title>
+<div class="text-center">
+  <h1>Dribble#1</h1>
 <br>
       I have a slight problem where by I like to come with ideas, life ventures or projects (whatever takesmy fancy on any given day), which I start, but never finish. <br> <br>
 A few examples <br>
