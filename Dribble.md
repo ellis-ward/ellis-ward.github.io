@@ -12,9 +12,9 @@ subtitle:
 </div>
 <br>
 
-<div class="Dropdown">
+<div class="dropdown">
 	<button id="DropDown-Button">Dribble#1</button>
-		<div class="Dropdown-Menu">
+		<div class="dropdown">
 		<p>
 I have a slight problem where by I like to come with ideas, life ventures or projects (whatever takesmy fancy on any given day), which I start, but never finish. <br> <br>
 A few examples <br>
