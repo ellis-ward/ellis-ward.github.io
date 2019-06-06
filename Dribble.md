@@ -4,9 +4,15 @@ title: Dribble
 subtitle:   
 ---
 
-<p style="text-align:center;">Ellis' dribble <br></p>
-<a href="https://www.instagram.com/p/BL4QxMmj3gu/?utm_source=ig_web_button_share_sheet">
-<img src="dribble.jpg"></a>
+<div class="text-center">
+  <h1>Ellis' dribble</h1>
+  <br/>
+ <a href="https://www.instagram.com/p/BL4QxMmj3gu/?utm_source=ig_web_button_share_sheet">
+  <img src="{{ site.baseurl }}/img/dribble.jpg" />
+  </a>
+</div>
+<br><br>
+<div class="text-left">
 <br>
 #1 <br> <br>
 I have a slight problem where by I like to come with ideas, life ventures or projects (whatever takesmy fancy on any given day), which I start, but never finish. <br> <br>
@@ -35,5 +41,5 @@ I'll just say one thing. I am not a moron, I am an educated woman, honestly. Rem
 #Iamaneducatedwoman #Dribble<br>
 <br>
 Edit June’19 I’ve been in my house 23 months, completed 2 rooms now, my dog knows basic commmands and <b> I made my own blog </b>, well with a teeny tiny bit of help from the brother. Oh, and i have a new business venture! 
-
+</div>
  
