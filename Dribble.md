@@ -37,7 +37,7 @@ So, blog. I have had a long hard think about subjects I would like to write abou
 - Me learning to program (I'll start school again)<br>
 - My new financial diet<br>
 <br>
-But I decided hell with a topic, I'm just going to write about myself. There's enough to go at! And if it's not interesting and no one reads it, at least it's somewhere to rant so that I stop talking to my dog about everything, going stir crazy and talking literally <u>at</u> my family my family for hours on end when ever I see them. Joys of being a spinster. Plus, you can have a good laugh at my expense.<br>
+But I decided hell with a topic, I'm just going to write about myself. There's enough to go at! And if it's not interesting and no one reads it, at least it's somewhere to rant so that I stop talking to my dog about everything, going stir crazy and talking literally <u>at</u> my family for hours on end when ever I see them. Joys of being a spinster. Plus, you can have a good laugh at my expense.<br>
 So this is my digital dribble list.<br>
 <br>
 Bit of context: quite some years ago now my brother, the same brother who has no faith, started keeping a dribble list of all the stupid stuff I do and say. It's not a family tradition to get this out and read quotes (dribbles) I've said and taking to mick out of me. Most statementsare ludicrous and do make me cackle when they're read back to me.<br> <br>
