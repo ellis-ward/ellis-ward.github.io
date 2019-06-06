@@ -1,10 +1,11 @@
 ---
 layout: page
-title: dribble
+title: Dribble
 subtitle:   
 ---
 
-Ellis' dribble <br>
+<p style="text-align:center;">Ellis' dribble <br></p>
+<IMG SRC="https://www.instagram.com/p/BL4QxMmj3gu/?utm_source=ig_web_button_share_sheet" WIDTH=32 HEIGHT=32 class="center">
  #1 <br> <br>
 I have a slight problem where by I like to come with ideas, life ventures or projects (whatever takesmy fancy on any given day), which I start, but never finish. <br> <br>
 A few examples <br>
@@ -17,7 +18,8 @@ To name a few.<br> <br>
 My latest two are a financial diet I have just started, and perusing the life of a blogger.<br> <br>
 Well get to the other one, but I am now a blogger, so let's talk about that. My brother showed his phone today, in hand a beautiful website for his new blog. I am impressed. This has of course made me want to write my own blog. One problem, I didn't go to programming school, so I have no idea how to make myself a website.... So obviously I used my charm and asked my big brother if he'd make me a website. He said no. Well not no in so many words, he told me if I wrote something, and proved I was actually going to stick to this he'd help me. Makes sense, why would he invest his valuable time helping his baby sister you ask, maybe because he has faith in me and wants to help me persue my latest dream. Clearly not. <br> <br> So here I am, writing my first page of my blog. *He does have little faith in me in many ways, he told me I couldn't bring a date to his wedding because my relationshipsneverlastandthere'dbephotosofarandomathiswedding. <br> He was right, I brough someone to the wrdding even though he said no, and two months later I was single again. That's another thing I don't follow through with. <br> <br>
  
-So, blog. I have had a long hard think about subjects I would like to write about: <br>- My DIY ventures<br>
+So, blog. I have had a long hard think about subjects I would like to write about: <br>
+- My DIY ventures<br>
 - Misty and I training each other<br>
 - Me learning to program (I'll start school again)<br>
 - My new financial diet<br><br>
