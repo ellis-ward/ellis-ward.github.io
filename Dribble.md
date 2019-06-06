@@ -12,11 +12,13 @@ subtitle:
 </div>
 <br>
 
-<div class="Dropdown">
-	<button id="DropDown-Button">Dribble#1</button>
-		<div class="Dropdown-Menu">
-		<p>
-I have a slight problem where by I like to come with ideas, life ventures or projects (whatever takesmy fancy on any given day), which I start, but never finish. <br> <br>
+<html>
+  <head>
+    <title>Dribble#1</title>
+  </head>
+  <body>
+    <span class="showmore">
+      I have a slight problem where by I like to come with ideas, life ventures or projects (whatever takesmy fancy on any given day), which I start, but never finish. <br> <br>
 A few examples <br>
 A kitchen I started 5 months ago and still haven't finished,<br>
 Programming school, which started in May'17. I gave up on that after failing to do my homework and falling out with the teacher(my brother) because I didn't turn up. I fell asleep.<br>
@@ -42,7 +44,8 @@ I'll just say one thing. I am not a moron, I am an educated woman, honestly. Rem
 #Iamaneducatedwoman #Dribble<br>
 <br>
 Edit June’19 I’ve been in my house 23 months, completed 2 rooms now, my dog knows basic commmands and <b> I made my own blog </b>, well with a teeny tiny bit of help from the brother. Oh, and i have a new business venture!
-</p>
-</div>
+    </span>
+    <br><br>
+
 
  
