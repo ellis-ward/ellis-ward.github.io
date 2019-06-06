@@ -46,6 +46,7 @@ I'll just say one thing. I am not a moron, I am an educated woman, honestly. Rem
 Edit June’19 I’ve been in my house 23 months, completed 2 rooms now, my dog knows basic commmands and <b> I made my own blog </b>, well with a teeny tiny bit of help from the brother. Oh, and i have a new business venture!
     </span>
     <br><br>
-
+  </body>
+</html>
 
  
