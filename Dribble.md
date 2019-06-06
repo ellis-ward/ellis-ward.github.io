@@ -16,6 +16,8 @@ subtitle:
 <div class="text-left">
   <h1>Dribble#1</h1>
 <br>
+<div class="boxed">
+  <font size="6">
       I have a slight problem where by I like to come with ideas, life ventures or projects (whatever takesmy fancy on any given day), which I start, but never finish. <br> <br>
 A few examples <br>
 A kitchen I started 5 months ago and still haven't finished,<br>
@@ -42,6 +44,8 @@ I'll just say one thing. I am not a moron, I am an educated woman, honestly. Rem
 #Iamaneducatedwoman #Dribble<br>
 <br>
 Edit June’19 I’ve been in my house 23 months, completed 2 rooms now, my dog knows basic commmands and <b> I made my own blog </b>, well with a teeny tiny bit of help from the brother. Oh, and i have a new business venture!
+</div>
+</font>
     <br><br>
 
  
