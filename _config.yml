@@ -205,7 +205,6 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
-  - _template.md
 
 # prose.io config
 prose:
