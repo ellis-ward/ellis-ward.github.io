@@ -17,7 +17,7 @@ subtitle:
     <title>Dribble#1</title>
   </head>
   <body>
-    <span class="showmore">
+    <span class="more">
       I have a slight problem where by I like to come with ideas, life ventures or projects (whatever takesmy fancy on any given day), which I start, but never finish. <br> <br>
 A few examples <br>
 A kitchen I started 5 months ago and still haven't finished,<br>
