@@ -5,7 +5,6 @@ subtitle:
 ---
 
 <div class="text-center">
-  <h1>Ellis' dribble</h1>
   <br/>
  <a href="https://www.instagram.com/p/BL4QxMmj3gu/?utm_source=ig_web_button_share_sheet">
   <img src="{{ site.baseurl }}/img/dribble.jpg" />
