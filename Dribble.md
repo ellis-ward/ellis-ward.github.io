@@ -7,7 +7,7 @@ subtitle:
 <div class="text-center">
   <br/>
  <a href="https://www.instagram.com/p/BL4QxMmj3gu/?utm_source=ig_web_button_share_sheet">
-  <img src="{{ site.baseurl }}/img/dribble.jpg" />
+  <img src="{{ site.baseurl }}/img/dribble.jpg" width="200" height="40"/>
   </a>
 </div>
 <br><br>
