@@ -23,7 +23,7 @@ description: A virtual proof that I am awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  AboutMe: "aboutme"
+  #AboutMe: "aboutme"
 
   Dribble: "Dribble"
 
