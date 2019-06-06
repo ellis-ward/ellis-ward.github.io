@@ -5,7 +5,8 @@ subtitle:
 ---
 
 <p style="text-align:center;">Ellis' dribble <br></p>
-<a href="https://www.instagram.com/p/BL4QxMmj3gu/?utm_source=ig_web_button_share_sheet"><img src="dribble.jpg" style="width:82px; height:86px"  alt="Dribble" class="center"></a><br>
+<a href="https://www.instagram.com/p/BL4QxMmj3gu/?utm_source=ig_web_button_share_sheet">
+Image: dribble.jpg</a><br>
 #1 <br> <br>
 I have a slight problem where by I like to come with ideas, life ventures or projects (whatever takesmy fancy on any given day), which I start, but never finish. <br> <br>
 A few examples <br>
