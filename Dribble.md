@@ -10,10 +10,12 @@ subtitle:
   <img src="{{ site.baseurl }}/img/dribble.jpg" width="200" height="200"/>
   </a>
 </div>
-<br><br>
-<div class="text-left">
 <br>
-#1 <br> <br>
+
+<div class="Dropdown">
+	<button id="DropDown-Button">Dribble#1</button>
+		<div class="Dropdown-Menu">
+		<p>
 I have a slight problem where by I like to come with ideas, life ventures or projects (whatever takesmy fancy on any given day), which I start, but never finish. <br> <br>
 A few examples <br>
 A kitchen I started 5 months ago and still haven't finished,<br>
@@ -39,6 +41,8 @@ So , I'm going to carry on the dribble book here. As we all live separately now 
 I'll just say one thing. I am not a moron, I am an educated woman, honestly. Remember that.<br> <br>
 #Iamaneducatedwoman #Dribble<br>
 <br>
-Edit June’19 I’ve been in my house 23 months, completed 2 rooms now, my dog knows basic commmands and <b> I made my own blog </b>, well with a teeny tiny bit of help from the brother. Oh, and i have a new business venture! 
+Edit June’19 I’ve been in my house 23 months, completed 2 rooms now, my dog knows basic commmands and <b> I made my own blog </b>, well with a teeny tiny bit of help from the brother. Oh, and i have a new business venture!
+</p>
 </div>
+
  
