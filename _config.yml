@@ -44,8 +44,7 @@ avatar: "https://scontent-lht6-1.cdninstagram.com/vp/99c137a48ecf9d583a2d4ef725f
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: <a href="https://steamcommunity.com/profiles/76561198132302981/">
-https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/74/7440061a394a123bdae4e3a4f670dcc3e9a992ae_full.jpg </a>
+title-img: <a href="https://steamcommunity.com/profiles/76561198132302981/">https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/74/7440061a394a123bdae4e3a4f670dcc3e9a992ae_full.jpg </a>
 
 # --- Background colour/image options --- #
 
