@@ -28,9 +28,7 @@ navbar-links:
   DribbleList: 
     - Dribble#1: "https://ellisward.com/2018-06-06-dribble-1/"
 
-  MyLifeByMyFavouriteSisterInLaw: "MyLifeByMyFavouriteSisterInLaw"
-
-  NothingToSeeHere: "nothingtoseehere"
+  MyLife: "MyLifeByMyFavouriteSisterInLaw"
 
   # Resources:
     # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
