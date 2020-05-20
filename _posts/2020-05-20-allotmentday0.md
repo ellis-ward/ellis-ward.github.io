@@ -1,12 +1,12 @@
 ---
 layout: post
-title: AllotmentDay0
-subtitle:  
+title: Day 0 on the allotment adventure
+subtitle:  Let the fun begin
 ---
 
 <div class="text-center">
   <br/>
-  <img src="{{ site.baseurl }}/img/allotmentday0.jpeg"/>
+  <img src="{{ site.baseurl }}/img/allotmentday0.jpeg" width="200" height="200"/>
 </div>
 
 
