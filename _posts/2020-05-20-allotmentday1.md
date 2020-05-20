@@ -22,5 +22,5 @@ A good start to our allotment adventure ended by embarrassment and a broken trol
 
 <div class="text-center">
   <br/>
-  <img src="{{ site.baseurl }}/img/allotmentday1.jpeg"/>
+  <img src="{{ site.baseurl }}/img/A5F0A9B4-C708-423E-B267-ABC93AA28188.jpeg"/>
 </div>
