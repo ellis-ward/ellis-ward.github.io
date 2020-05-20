@@ -4,12 +4,7 @@ title: Day 0 on the allotment adventure
 subtitle:  Let the fun begin
 ---
 
-<div class="text-center">
-  <br/>
-  <img src="{{ site.baseurl }}/img/allotmentday0.jpeg" width="200" height="200"/>
-</div>
-
-
+ <br><br>
 <div class="text-left">
 <div class="boxed">
   <font size="2">
@@ -28,3 +23,8 @@ All I can say right now is... Let the adventures begin! And I hope whoever, if a
 
 </font>
     <br><br>
+
+<div class="text-center">
+  <br/>
+  <img src="{{ site.baseurl }}/img/allotmentday0.jpeg"/>
+</div>
