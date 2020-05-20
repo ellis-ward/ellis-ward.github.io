@@ -20,7 +20,7 @@ In the typical mother daughter spirit we got very ahead of ourselves and started
 All I can say right now is... Let the adventures begin! And I hope whoever, if anyone, is reading this they're ready for a good old crack into the inner workings of my world and have a good laugh at my expense. 
 
 </font>
-    <br><br>
+    <br>
 
 <div class="text-center">
   <br/>

@@ -37,7 +37,8 @@ navbar-links:
   MyLife: "MyLifeByMyFavouriteSisterInLaw"
 
   Allotment: 
-    - AllomentDay0: "https://ellisward.com/2020-05-20-allotmentday0/"
+    - Day0: "https://ellisward.com/2020-05-19-allotmentday0/"
+    - Day1: "https://ellisward.com/2020-05-20-allotmentday1/"
 
   # Resources:
     # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
