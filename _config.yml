@@ -37,6 +37,7 @@ navbar-links:
   MyLife: "MyLifeByMyFavouriteSisterInLaw"
 
   Allotment: 
+    - AllomentDay0: "https://ellisward.com/2020-05-20-allotmentday0/"
 
   # Resources:
     # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -46,7 +47,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "https://scontent-lht6-1.cdninstagram.com/v/t51.2885-19/s150x150/59647340_451857168882690_3365723191338074112_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_ohc=tKmEqCyfTNUAX9L1pHM&oh=cf73534900de6def3a59d9ab4472af62&oe=5EB02F3C"
+avatar: "{{ site.baseurl }}/img/profileicon.jpeg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
