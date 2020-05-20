@@ -4,7 +4,6 @@ title: Day 0 on the allotment adventure
 subtitle:  Let the fun begin
 ---
 
- <br><br>
 <div class="text-left">
 <div class="boxed">
   <font size="2">
