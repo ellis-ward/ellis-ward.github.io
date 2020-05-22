@@ -12,7 +12,7 @@ We travelled down to the garden center first thing in the morning to purchase so
 
 We then had an idea today that we were going to completely empty mums old shed, and take it down to use on the allotment with our new purchases. Which would be a free option for a shed and allow us to keep our tools on the allotment and start collecting water. This would definitely improve out productivity and make the walk down less work as we would not need to keep taking our tools with us.<br> <br>
 However, after a couple of hours of emptying out 20 years worth of mums hoarded cr*p, which we just spread all over her garden in piles, we realised that the shed although watertight and holding itself up in the location it is in her garden is actually really rotten and would not survive being moved and re-built. <br>
-So that was a waste of time... <br>
+So that was a waste of time... <br> (I've just left mum with a garden full of crap and a falling down shed... As you do)
 
 <div class="text-center">
   <br/>
@@ -20,7 +20,7 @@ So that was a waste of time... <br>
   <br>
 </div>
 
-No worries though, some good exercise was had, and a step towards defeating my fear of spiders, emptying out a rotten shed. And I job I suppose would have had to be done at some point, maybe not right now during corona when we can't go to the tip and we both have far too many projects to add another one to the list. <br><br>
+No worries though, some good exercise was had, and a step towards defeating my fear of spiders, emptying out a rotten shed. And a job I suppose would have had to be done at some point, maybe not right now during corona when we can't go to the tip and we both have far too many projects to add another one to the list. <br><br>
 
 We decided we were not going to let the day go to waste. We fixed our trolley and went down to the allotment and planted our berry bushes, onions and cabbages in the ground. Gave them a good water and packed up ready to come home. <br> <br>
 

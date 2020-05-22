@@ -8,7 +8,7 @@ subtitle:  Let the fun begin
 <div class="boxed">
   <font size="2">
       
-So my mother and I had a call to say that we are now the proud owners of our first ever alloment pitch. We registered for one over just over a year ago, with the intention to have an alloment in time for her retirement. This happened. Literally on the day that she retired she got a phone call from the lady who runs the allotment to say there was one available. <br> 
+So my mother and I had a call to say that we are now the proud owners of our first ever alloment pitch. We registered for one just over a year ago, with the intention to have an alloment in time for her retirement. This happened. Literally on the day that she retired she got a phone call from the lady who runs the allotment to say there was one available. <br> 
 And of course, we said yes. Who doesn't need another project to add to the thousands already in progress! <br><br>
 
 Before we have even seen the allotment I had already spent 2 hours of my life jamming in my shed listening to some right bangers making us a plaque to put pride of place in our new space. Not that I get carried away or anything.<br><br>

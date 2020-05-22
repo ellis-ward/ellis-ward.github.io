@@ -19,7 +19,7 @@ We now are growing:<br>
 *Day2 blueberries, cranberries, rasberries, whiteberries, cabbage, onion<br>
 *Day1 runner beans, rhubarb <br><br>
 
-I also got another peice of friendly advise off another allotmenteer. Get a shed but don't buy a cheap one because apparently it's the best investment and his was a labour of love if I want to go and have a look at it. Needless to say I haven't. AND he also decided to critique my sign and tell me that "Gaynor and Ellis'" is not grammatically correct and that it should have an "s" on the end. I just did my fake laugh and said we'll have to agree to disgree, because I didn't want to look like a wolly if I trully was wrong but I've asked my super sister in law and I was right. I won't forget to tell him. <br><br>
+I also got another peice of friendly advise off another allotmenteer. Get a shed but don't buy a cheap one because apparently it's the best investment and his was a labour of love if I want to go and have a look at it. Needless to say I haven't. AND he also decided to critique my sign and tell me that "Gaynor and Ellis'" is not grammatically correct and that it should have an "s" on the end. I just did my fake laugh and said we'll have to agree to disgree, because I didn't want to look like a wolly if I trully was wrong. I then couldn't let it drop so asked my super sister in law and big bro and I was right, of course! I won't forget to tell him. <br><br>
 
 Oh and apparently mum got fed up of waiting and has ordered a shed... I cannot elaborate on this though as that's all I know.
 
