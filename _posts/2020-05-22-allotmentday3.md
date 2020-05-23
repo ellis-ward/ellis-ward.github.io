@@ -15,7 +15,7 @@ However! Grandma had dropped off some chitting seed potatoes that she'd bought f
 So day 3 and off we go back down to the allotment, trolley full and ready to dig and water. Oh, mum also arrived at my house with rubbish in the trolley for my black bin, because hers was too full and it all blew over the street. Best not forget that! Woops. <br><br>
 
 We now are growing:<br>
-*Day3 tomatoes, potatoes, kale, brocolli, aubergine <br>
+*Day3 tomatoes, potatoes, kale, brocolli, courgette <br>
 *Day2 blueberries, cranberries, rasberries, whiteberries, cabbage, onion<br>
 *Day1 runner beans, rhubarb <br><br>
 
