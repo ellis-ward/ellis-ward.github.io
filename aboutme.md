@@ -36,3 +36,9 @@ subtitle:  Here’s a brief insight into me.
 23. I have one leg longer than the other. <br><br>
 24. I have an awful lot of acquaintances in my life, but there’s only a few I would actually call friends. <br><br>
 25. I have to get 8 hours sleep a night or my body shuts off and sleeps through everything. <br><br>
+26. Im not a strong swimmer, I nearly drowned twice as a child and although I can swim an acceptable amount you won’t catch me jumping in the deep end or into the sea. <br><br>
+27. I’m a very independent woman and do everything myself, however I am far more motivated with someone else around, when alone it does take me a while to get up and go hence why it took 13 months to finish my kitchen. But I did fit my own kitchen, so time is irrelevant to me.<br><br>
+28. I don’t have a favourite colour, song, tv show etc. I guess I just love everything so much I don’t feel like I can pick favourites. <br><br>
+29. My face speaks before my mouth does, or when I don’t want my mouth to; no matter how hard I try to stop it. I cannot lie nor can I hide anything because of this. <br><br>
+30. I don’t believe in soul mates, souls, life after death, ghosts, spirits or anything like that. I believe we are a living organism just like anything else on this planet and once our organs die we die. However, I do believe that peoples personalities are made up of brain muscle memory and in turn that should a brain be put into another body you would still be that person in all aspects other than appearance. But once the brain died you die and you decay into the ground the same way another animal or a plant would. <br><br>
+31. I absolutely hate small talk. <br><br>
