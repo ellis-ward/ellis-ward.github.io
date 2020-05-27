@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle:  So during our Rona quiz I said a few things about me that my friends didn’t seem to have a clue about. Due to this I have decided to add a  random things about me to this page. My memory is awful, so I will add to this as I remember things, or new things happen. But here’s a brief insight into me.
+subtitle:  Here’s a brief insight into me.
 ---
 
 <meta charset="UTF-8">
