@@ -31,3 +31,8 @@ subtitle:  So during our Rona quiz I said a few things about me that my friends 
 18. I at one point had 12 piercings. I now have 7 including ear lobes which imo don’t really count. I have no tattoos because I’m a wuss and cry at a Chinese burn. <br><br>
 19. I’ve never broken a bone or had any serious injuries. The most pain I’ve ever been in was being punched in the face because I was mouthing off at a bloke outside a nightclub. I lost all dignity when I got punched and instantly cried like a little girl. I’m not as tough as my exterior would suggest. <br><br>
 20. I’m not very flexible, I cannot do a Roly Poly or touch my toes standing up. <br><br>
+21. I once was a professional cleaner. Not that you can tell because I hate cleaning and my house is always a shit tip. My little brother likes to remind me off this regularly.<br><br>
+22. My favourite job of all time was working behind a bar. I loved it. I’ve worked in lots and lots of bars and have never disliked any of them. If only it paid well and the hours weren’t so bad. <br><br>
+23. I have one leg longer than the other. <br><br>
+24. I have an awful lot of acquaintances in my life, but there’s only a few I would actually call friends. <br><br>
+25. I have to get 8 hours sleep a night or my body shuts off and sleeps through everything. <br><br>
