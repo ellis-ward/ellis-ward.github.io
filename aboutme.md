@@ -7,13 +7,13 @@ subtitle:  Here’s a brief insight into me.
 <meta charset="UTF-8">
 
 <div class="text-center">
-Then:
+Past:
   <br/>
   <img src="{{ site.baseurl }}/img/F0256962-BEDF-4086-B66F-14995CE67F29.jpeg"/>
 </div><br>
 
 <div class="text-center">
-Now:
+Current Present:
   <br/>
   <img src="{{ site.baseurl }}/img/A80EAE28-DBDB-4FE4-93DB-D22B9022DB3D.jpeg"/>
 </div><br>
