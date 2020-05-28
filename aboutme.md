@@ -7,9 +7,17 @@ subtitle:  Here’s a brief insight into me.
 <meta charset="UTF-8">
 
 <div class="text-center">
+Then:
   <br/>
   <img src="{{ site.baseurl }}/img/F0256962-BEDF-4086-B66F-14995CE67F29.jpeg"/>
 </div><br>
+
+<div class="text-center">
+Now:
+  <br/>
+  <img src="{{ site.baseurl }}/img/A80EAE28-DBDB-4FE4-93DB-D22B9022DB3D.jpeg"/>
+</div><br>
+
 
 1. The slit in my eyebrow is not done on purpose to make me look cool. It’s actually a scar. I snook into my mums bed when I was 3/4 years old, she didn’t know I was there, rolled over and I fell out and cracked my head open on the side dresser. <br><br>
 2. I can play 7 instruments if you count the recorder. Although i don’t play regularly anymore so really am only proficient in the saxophone. But with a few days practice and sheet music I can get back up to speed. In order of proficiency... Saxophone, Recorder, Clarinet, Piano, Flute, Bagpipes, Drums. I do not like to play in front of people, I used to play in a band but I hated it. So don’t ask me to play it won’t happen. <br><br>
