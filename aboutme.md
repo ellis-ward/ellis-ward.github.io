@@ -15,7 +15,7 @@ Past:
 <div class="text-center">
 Current Present:
   <br/>
-  <img src="{{ site.baseurl }}/img/A80EAE28-DBDB-4FE4-93DB-D22B9022DB3D.jpeg"/>
+  <img src="{{ site.baseurl }}/img/"/>
 </div><br>
 
 
