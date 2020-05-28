@@ -3,7 +3,6 @@ layout: post
 title: Day 1 on the allotment adventure
 subtitle:  De-weeding
 tags: allotment
-
 ---
 
 <div class="text-left">
