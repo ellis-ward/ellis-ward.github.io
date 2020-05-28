@@ -1,23 +1,24 @@
 ---
 layout: page
 title: About me
-subtitle:  Here’s a brief insight into me.
+subtitle:  Here’s a brief insight into me. 
 ---
 
-<meta charset="UTF-8">
+<div class="text-center">
+[And also a fabulous video representation of me: <a href="{{ site.baseurl }}/MyLifeByMyFavouriteSisterInLaw">My Life by Sophie Ward</a>]
+</div><br>
 
+<meta charset="UTF-8">
 <div class="text-center">
 Past:
   <br/>
-  <img src="{{ site.baseurl }}/img/F0256962-BEDF-4086-B66F-14995CE67F29.jpeg"/>
-</div><br>
-
+  <img src="{{ site.baseurl }}/img/F0256962-BEDF-4086-B66F-14995CE67F29.jpeg" width="400" height="400"/>
+</div>
 <div class="text-center">
 Current Present:
   <br/>
-  <img src="{{ site.baseurl }}/img/407624F7-5949-49C3-9824-61836B6B43FF.jpeg"/>
+  <img src="{{ site.baseurl }}/img/407624F7-5949-49C3-9824-61836B6B43FF.jpeg" width="400" height="400"/>
 </div><br>
-
 
 1. The slit in my eyebrow is not done on purpose to make me look cool. It’s actually a scar. I snook into my mums bed when I was 3/4 years old, she didn’t know I was there, rolled over and I fell out and cracked my head open on the side dresser. <br><br>
 2. I can play 7 instruments if you count the recorder. Although i don’t play regularly anymore so really am only proficient in the saxophone. But with a few days practice and sheet music I can get back up to speed. In order of proficiency... Saxophone, Recorder, Clarinet, Piano, Flute, Bagpipes, Drums. I do not like to play in front of people, I used to play in a band but I hated it. So don’t ask me to play it won’t happen. <br><br>

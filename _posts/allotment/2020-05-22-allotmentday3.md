@@ -2,6 +2,8 @@
 layout: post
 title: Day 3 on the allotment adventure
 subtitle:  A friendly hand
+tags: allotment
+
 ---
 
 <div class="text-left">

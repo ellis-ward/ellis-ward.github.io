@@ -2,13 +2,15 @@
 layout: post
 title: Day 1 on the allotment adventure
 subtitle:  De-weeding
+tags: allotment
+
 ---
 
 <div class="text-left">
 <div class="boxed">
   <font size="2">
       
-It’s off to a flying start! I was up early raring to go with a flask of coffee, a sandwich and my tools in hand. <br>
+It’s off to a flying start! I was up early raring to go with a flask of coffee, a sandwich and my tools in hand. <br> 
 Today is the day to de-weed the plot and get it ready for planting. I mean, we don’t have a shed, a good source of water or any shade from the scorching 26° sun... but we’re going to get stuck in and least make it look like we know what we’re doing. <br> <br> Mums packed up our festival trolley full of tools, weed bags and chairs to wheel down to the allotments with the intention of getting all the weeding done and on to the more exciting jobs! <br><br> 
 
 We succeeded in weeding the plot. Three ladies and the sun to egg us on we manage to fill all our weed bags and completely clear the lot! All went well and no hiccups... Other than an aching mother, and burnt Charlotte and myself with a blister because I was using a fork that my dog had previously chewed so it was digging into my hands. <br><br> 

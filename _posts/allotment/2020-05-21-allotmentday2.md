@@ -2,6 +2,8 @@
 layout: post
 title: Day 2 on the allotment adventure
 subtitle:  Unsuccessful shed strip
+tags: allotment
+
 ---
 
 <div class="text-left">

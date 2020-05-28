@@ -23,26 +23,12 @@ description: A virtual proof that I am awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  #AboutMe: "aboutme"
 
-  DribbleList: 
-    - Dribble#1: "https://ellisward.com/2018-06-06-dribble-1/"
-    - Dribble#2: "https://ellisward.com/2019-06-07-dribble-2/"
-    - Dribble#3: "https://ellisward.com/2019-06-09-dribble-3/"
-    - Dribble#4: "https://ellisward.com/2019-06-16-dribble-4/"
-    - Dribble#5: "https://ellisward.com/2019-07-01-dribble-5/"
-    - Dribble#6: "https://ellisward.com/2019-07-07-dribble-6/"
-    - Dribble#7: "https://ellisward.com/2019-07-08-dribble-7/"
+  DribbleList: "dribble"
 
   About Me: "aboutme"
 
-  MyLife: "MyLifeByMyFavouriteSisterInLaw"
-
-  Allotment: 
-    - Day0: "https://ellisward.com/2020-05-19-allotmentday0/"
-    - Day1: "https://ellisward.com/2020-05-20-allotmentday1/"
-    - Day2: "https://ellisward.com/2020-05-21-allotmentday2/"
-    - Day3: "https://ellisward.com/2020-05-22-allotmentday3/"
+  Allotment: "allotment"
 
   # Resources:
     # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -102,11 +88,11 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: blahdeblahdsaa
 #  youtube: user/deanat78
-#  spotify: yourname
+  spotify: blahdeblahdsaa
 #  telephone: +14159998888
-#  steam: deanat78
+  steam: blahdeblahdsaa
 #  twitch: yourname
 #  yelp: yourname
 
