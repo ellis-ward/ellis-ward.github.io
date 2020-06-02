@@ -14,7 +14,7 @@ I wasn't going to do another allotment blog post until our shed got delivered be
 As the subtitle of this post suggests we experienced another episode of being stranded at our allotment. This is twice now and we're only on day 10. Not having much luck. We drove down in the car early afternoon in the attempt to get some bargain compost from asda, queued for what felt like forever in the scorching sun only to find that it had all gone. Not a bag left on site. This was extremely disappointing, because they had put the compost inside due to Rona we couldn't see and had to queue before we knew if there was any or not. So we grabbed a couple of tomato grow bags instead, not as cheap but still compost full on nutrients so it will do the job, I suppose. We went to the allotment and started planting up our flower starts and some seeds. <br><br>
 
 We now are growing:<br>
-*Day10 cauliflower, spring onion, lettuce, bok choy<br> 
+*Day10 cauliflower, beetroot, lettuce, pak choi<br> 
 *Day3 tomatoes, potatoes, kale, brocolli, courgette <br>
 *Day2 blueberries, cranberries, rasberries, whiteberries, cabbage, onion<br>
 *Day1 runner beans, rhubarb <br><br>
