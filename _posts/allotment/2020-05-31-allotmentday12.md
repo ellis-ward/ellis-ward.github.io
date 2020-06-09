@@ -17,7 +17,7 @@ We also got some free onions from our allotmenteer neighbour, plus all the advic
 
 We now are growing:<br>
 *Day12 onions <br>
-*Day10 cauliflower, spring onion, lettuce, bok choy, edible flower mix, ornamentals<br> 
+*Day10 cauliflower, spring onion, lettuce, pak choi, edible flower mix, ornamentals<br> 
 *Day3 tomatoes, potatoes, kale, brocolli, courgette <br>
 *Day2 blueberries, cranberries, rasberries, whiteberries, cabbage, onion<br>
 *Day1 runner beans, rhubarb <br><br>
