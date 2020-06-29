@@ -16,7 +16,7 @@ As the subtitle of this post suggests we experienced another episode of being st
 We now are growing:<br>
 *Day10 cauliflower, beetroot, lettuce, pak choi<br> 
 *Day3 tomatoes, potatoes, kale, brocolli, courgette <br>
-*Day2 blueberries, cranberries, rasberries, whiteberries, cabbage, onion<br>
+*Day2 blueberries, cranberries, raspberries, whiteberries, cabbage, onion<br>
 *Day1 runner beans, rhubarb <br><br>
 
 Prep is going well, we are slowly working our soil on a budget to reduce cost of course, recycled some of Lewis' pop cans to deter the birds and protect our eyes from being gouged out, relocated some old planters for our flower and herb garden, staked our tomatoes and covered our cabbage. Along with some little fruits starting on the berry bushes. And a bottle of champers drunk to toast mums beloved departed friend. <br><br>
