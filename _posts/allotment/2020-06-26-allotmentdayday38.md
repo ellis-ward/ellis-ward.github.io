@@ -11,7 +11,7 @@ tags: allotment
 
 I haven't posted in a while because my lockdown has actually been pretty busy the over the last couple of weeks. I have been meaning to and have a lot of dribbles drafted in my notes as well but I just keep turning my computer on and then getting distracted with other things and not getting around to it. So here's an update on what we've been up to over the last 17 days. <br><br>
 
-We have finally had a harvest. 35 days after starting our journey, with nothing in the ground apart from weeds, we have harvested 5 raspberries. They were very nice and of course we ate them on the allotment. It's pretty rewarding and definiely gives a sense of pride being able to pick off our first produce as getting an allotment so far after the last frost makes things a little bit difficult and of course we're not seeing anywhere as much progress as other allotmenteers but we'll get there. This just shows it.
+We have finally had a harvest. 35 days after starting our journey, with nothing in the ground apart from weeds, we have harvested 5 raspberries. They were very nice and of course we ate them on the allotment. It's pretty rewarding and definitely gives a sense of pride being able to pick off our first produce as getting an allotment so far after the last frost makes things a little bit difficult and of course we're not seeing anywhere as much progress as other allotmenteers but we'll get there. This just shows it.
 
 <div class="text-center">
   <br/>
