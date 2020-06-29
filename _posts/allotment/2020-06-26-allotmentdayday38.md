@@ -34,6 +34,9 @@ We now are growing:<br>
 *Day2 blueberries, cranberries, raspberries, whiteberries, cabbage, onion<br>
 *Day1 runner beans, rhubarb <br><br>
 
+We have harvested:<br>
+*Day35 raspberries 
+
 </font>
     <br>
 
