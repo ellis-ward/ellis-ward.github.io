@@ -26,7 +26,7 @@ Current Present:
 4. I have PCOS, although it does not affect my life hardly I do worry about the potential of not being able to mother a child quite a lot. I also do believe that my hormone imbalance has a lot to do with my life choices and personality traits, and that my excess testosterone has a huge impact on a lot of things.<br><br>
 5. I had a Pilonidal Sinus back in 2016 and now have a wonky bum crack. <br><br>
 6. I have slight trust/abandonment (some would say daddy) issues. Which I think might be the underlying reason why I have a guard up so much, it takes a while for me to want to befriend someone <s>and why I don’t want a relationship</s>. <br><br>
-7. I have names for my first child, <s>whether it be a boy or a girl</s>. Dennis <s>or Esther</s>. <br>Yssi doesn't like Esther (Or Dennis really, but that's not up for debate)<br><br>
+7. I have a name for my first child, <s>whether it be a boy or a girl</s>. Dennis <s>or Esther</s>. <br>Yssi doesn't like Esther (Or Dennis really, but that's not up for debate)<br><br>
 8. I have a really small forehead, which I used to dislike so much I used to shave it. Now not so bothered but it’s rare you’ll see me with my hair slapped back. If ever. <br><br>
 9. I don’t eat pork, and absolutely love pigs. But I stopped telling people about it because there’s only so many pig money banks, ornaments and gifts a girl can own. <br><br>
 10. I have far too many drunken stories to ever want to write them all on this blog. But here’s 3... I once nearly slept with a midget. I have hitch hiked in a lorry because I got lost trying to get home. I once took myself to my mums house because I was adamant that I was home, she was not happy. <br><br>
