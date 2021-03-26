@@ -16,7 +16,7 @@ Since then I have added chickens to my life, got myself a new job, decorated a h
 got myself the most darling partner who I absolutely adore, built a greenhouse, built a chicken palace, renovated two allotments, got a 3D printer and a new PC; 
 to name a few things. <br><br>
 It feels like it's been a lifetime, but also the best time. I've laughed, cried and loved. (I would not have thought 372 days ago I would be saying the latter!) <br><br>
-But enough about me, I will update on myself soon – let’s talk allotment. <br>
+But enough about me, I will update on myself soon – let’s talk allotment. <br><br> 
 In the month of March as have seen such a dramatic shift from cold dark wet days to bright sunny longer days, 
 the daffodils have well and truly popped their heads out now and we have lots of green coming in our lovely garden. 
 We have onions and garlic well into growth, along with our berry bushes coming to say hello! <br> 
@@ -31,9 +31,9 @@ planting mainly beans, peas, salad leaves and brassicas; but also risking a few 
 <br/>
   <img src="{{ site.baseurl }}/img/20210326_greenhouse.jpg"/>
 </div><br>
-We have a lot more to plant next month as we start entering the warmer months. <br>
+We have a lot more to plant next month as we start entering the warmer months. <br><br>
 With a huge learning curve ahead of us we plan to follow the no dig method as much as possible (Mainly because I’m lazy and Marj is falling apart), 
-with succession planting and companion planting. We have all the intention to experiment massively, learn and grow. 
+with succession planting and companion planting. We have all the intention to experiment massively, learn and grow - with our first experiment being growing in guttering! 
 We had a late start with our first year in 2020, although we did have an exceptional amount of time with me being furloughed to catch up, 
 so this year we plan on going big! <br><br>
 
