@@ -22,7 +22,7 @@ the daffodils have well and truly popped their heads out now and we have lots of
 We have onions and garlic well into growth, along with our berry bushes coming to say hello! <br> 
 <div class="text-center">
   <br/>
-  <img src="{{ site.baseurl }}/img/20210326_plot.jpg" width="200" height="200"/>
+  <img src="{{ site.baseurl }}/img/20210326_plot.jpg" width="400" height="400"/>
 </div><br>
 So we decided now was the time to start planting our baby seedlings. 
 Albeit still slightly early we are ignoring the risk of frost and the advice of others and following mother nature this year, 
