@@ -10,8 +10,8 @@ tags: allotment
   <font size="2">
 
 It has been the longest time waiting for spring this year! Seeing our chickens start laying, the flowers blooming, 
-the lambs in the fields and the lighter evenings has been such a mood lifter. <br>
-372 days have passed since I got sent home from work and the world turned into a disaster zone. 
+the lambs in the fields and the lighter evenings has been such a mood lifter. <br><br>
+<b>372 days</b> have passed since I got sent home from work and the world turned into a disaster zone. 
 Since then I have added chickens to my life, got myself a new job, decorated a huge portion of the house (I know right?! Update to follow soon), 
 got myself the most darling partner who I absolutely adore, built a greenhouse, built a chicken palace, renovated two allotments, got a 3D printer and a new PC; 
 to name a few things. <br><br>
