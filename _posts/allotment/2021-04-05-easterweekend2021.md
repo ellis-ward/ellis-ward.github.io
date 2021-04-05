@@ -29,7 +29,7 @@ with the "lets water and hope it doesn't freeze" method!
   <img src="{{ site.baseurl }}/img/20210405watering.gif"/>
 </div><br>
 
-I'll with with a few photos of our baby plants, incase they don't survive the frost! And if they do, then our winging it worked and you're welcome to take it as 
+I'll end with a few photos of our baby plants, incase they don't survive the frost! And if they do, then our winging it worked and you're welcome to take it as 
 proven advice that not following all the rules of the garden can work favourably! Plants want to grow, not die, at the end of the day.
 
 <div class="text-center">
