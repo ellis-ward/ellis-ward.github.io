@@ -39,67 +39,67 @@ proven advice that not following all the rules of the garden can work favourably
 <b><u>We now are growing:</u></b><br> 
 
 *Kale (for the chickens)<br>
-	<i> Plated 20th March
+	<i> Planted 20th March<br>
 *Purple sprouting brocoli<br>
-	<i> Plated 20th March
+	<i> Planted 20th March<br>
 	<i> Germinated 27th March, 7d </i><br>
 *Garlic chives<br>
-	<i> Plated 20th March
+	<i> Planted 20th March<br>
 *Parsley<br>
-	<i> Plated 20th March
+	<i> Planted 20th March<br>
 *Cumin<br>
-	<i> Plated 20th March
+	<i> Planted 20th March<br>
 *Dill<br>
-	<i> Plated 20th March
+	<i> Planted 20th March<br>
 	<i> Germinated 5th April, 16d </i><br>
 *Basil<br>
-	<i> Plated 20th March
+	<i> Planted 20th March<br>
 *Coriander<br>
-	<i> Plated 20th March
+	<i> Planted 20th March<br>
 	<i> Germinated 5th April, 16d </i><br>
 *Leeks<br>
-	<i> Plated 20th March
+	<i> Planted 20th March<br>
 	<i> Germinated 29th March, 9d </i><br>
 *Lettuce & salad leaves<br>
-	<i> Plated 20th March
+	<i> Planted 20th March<br>
 	<i> Germinated 29th March, 9d </i><br>
 *Cabbage<br>
-	<i> Plated 20th March
+	<i> Planted 20th March<br>
 	<i> Germinated 29th March, 9d </i><br>
 *Broad beans<br>
-	<i> Plated 20th March
+	<i> Planted 20th March<br>
 	<i> Germinated 1th April, 11d </i><br>
 *Cauliflower<br>
-	<i> Plated 20th March
+	<i> Planted 20th March<br>
 	<i> Germinated 1th April, 11d </i><br>
 *Courgette <br>
-	<i> Plated 20th March
+	<i> Planted 20th March<br>
 	<i> Germinated 1th April, 11d </i><br>
 *Fennel <br>
-	<i> Plated 20th March
+	<i> Planted 20th March<br>
 	<i> Germinated 1th April, 11d </i><br>
 *Spinach<br>
-	<i> Plated 20th March
+	<i> Planted 20th March<br>
 	<i> Germinated 29th March, 9d </i><br>
 *Asparagus peas<br>
-	<i> Plated 20th March
+	<i> Planted 20th March<br>
 	<i> Germinated 1st April, 11d </i><br>
 *French climbing beans<br>
-	<i> Plated 20th March
+	<i> Planted 20th March<br>
 *Mangetout peas<br>
-	<i> Plated 20th March
+	<i> Planted 20th March<br>
 	<i> Germinated 1st April, 11d </i><br>
 *Sugarsnap peas<br>
-	<i> Plated 20th March
+	<i> Planted 20th March<br>
 	<i> Germinated 1st April, 11d </i><br>
 *Spring onions<br>
-	<i> Plated 20th March
+	<i> Planted 20th March<br>
 	<i> Germinated 5th April, 16d </i><br>
 *Radish<br>
-	<i> Plated 20th March
+	<i> Planted 20th March<br>
 	<i> Germinated 27th March, 7d </i><br>
 *Runner beans<br>
-	<i> Plated 20th March
+	<i> Planted 20th March<br>
 	<i> Germinated 1st April, 11d </i><br>
 </font>
 <br>
