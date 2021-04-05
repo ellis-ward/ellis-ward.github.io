@@ -192,9 +192,7 @@ I'll end with a few photos of our baby plants, incase they don't survive the fro
     <tfoot>
       <tr>
         <td colspan="2"></td>
-        <td> </td>
       </tr>
     </tfoot>
   </table>
 </div>
-<br>
