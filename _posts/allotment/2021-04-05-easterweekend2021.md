@@ -10,10 +10,10 @@ tags: allotment
   <font size="2">
 
 We're definitely experimenting this weekend. The forecast shows negative temperatures at least 4 times within the next week, which would be fine if we had been 
-patient... but we weren't... we planted 22 different types of seeds over 2 weeks ago in an unheated greenhouse. <br>
-Why not?!<br>
+patient... but we weren't... we planted 22 different types of seeds over 2 weeks ago in an unheated greenhouse. <br><br>
+Why not?!<br><br>
 Well that's what we told ourselves back in March, knowing we could still get frosts in the middle of the UK up until the end of April for definite, but hoping that 
-we wouldn't, of course. We're now expecting negative 1 to 2 degrees celcius and are unsure what to do. <br><br>
+we wouldn't, of course. <br>We're now expecting negative 1 to 2 degrees celcius and are unsure what to do. <br><br>
 
 
 <div class="text-center">
