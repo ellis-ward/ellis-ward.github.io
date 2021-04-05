@@ -13,7 +13,7 @@ We're definitely experimenting this weekend. The forecast shows negative tempera
 patient... but we weren't... we planted 22 different types of seeds over 2 weeks ago in an unheated greenhouse. <br><br>
 Why not?!<br><br>
 Well that's what we told ourselves back in March, knowing we could still get frosts in the middle of the UK up until the end of April for definite, but hoping that 
-we wouldn't, of course. <br>We're now expecting negative 1 to 2 degrees celcius and are unsure what to do. <br><br>
+we wouldn't, of course. <br>We're now expecting negative 1 to 2 degrees celcius and are unsure what to do. Which to be honest isn't a shock, we do live in England after all. <br><br>
 
 
 <div class="text-center">
@@ -22,7 +22,7 @@ we wouldn't, of course. <br>We're now expecting negative 1 to 2 degrees celcius 
 </div><br>
 
 If we don't water the babies they will die, if we do water them they could also die and our trusted friend Google likes to give contradicting advice; so we've gone 
-with the "lets water and hope it doesn't freeze" method! 
+with the "lets water and hope it doesn't freeze" method! The theory being that a greenhouse should keep the temperature inside about 2 degrees Celsius above the outside temperature, which in turn would mean there would be no freezing on the inside? Fingers crossed anyway! The risk of the pugs drying up is a lot greater than them freezing. 
 
 <div class="text-center">
 <br/>
