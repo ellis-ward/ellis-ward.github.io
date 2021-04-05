@@ -101,5 +101,5 @@ proven advice that not following all the rules of the garden can work favourably
 *Runner beans<br>
 	<i> Planted 20th March<br>
 	<i> Germinated 1st April, 11d </i><br>
-</font>
+
 <br>
