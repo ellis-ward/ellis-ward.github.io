@@ -18,7 +18,7 @@ we wouldn't, of course. <br>We're now expecting negative 1 to 2 degrees celcius 
 
 <div class="text-center">
   <br/>
-  <img src="{{ site.baseurl }}/img/20210405weather.jpg" width="200" height="200"/>
+  <img src="{{ site.baseurl }}/img/20210405weather.jpg" width="400" height="400"/>
 </div><br>
 
 If we don't water the babies they will die, if we do water them they could also die and our trusted friend Google likes to give contradicting advice; so we've gone 
