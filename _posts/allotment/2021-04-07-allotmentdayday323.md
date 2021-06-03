@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Plant hardiness
-subtitle: The rule book isn't always right
+title: Day 323 on the allotment adventure
+subtitle: Plant hardiness
 tags: allotment
 ---
 
