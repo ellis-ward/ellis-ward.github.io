@@ -17,7 +17,7 @@ Past:
 <div class="text-center">
 Current Present:
   <br/>
-  <img src="{{ site.baseurl }}/img/407624F7-5949-49C3-9824-61836B6B43FF.jpeg" width="400" height="400"/>
+  <img src="{{ site.baseurl }}/img/IMG_0772-COLLAGE.jpg" width="400" height="400"/>
 </div><br>
 
 1. The slit in my eyebrow is not done on purpose to make me look cool. It’s actually a scar. I snook into my mums bed when I was 3/4 years old, she didn’t know I was there, rolled over and I fell out and cracked my head open on the side dresser. <br><br>
