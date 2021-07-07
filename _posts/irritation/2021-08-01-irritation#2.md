@@ -24,7 +24,7 @@ They may then read the highlights or the first paragraph of your chapters, with 
 <br> 
 Before I met Yssi, I have spent the last 6 years working in industry and not one single person that I worked with knew I fancied ladies. <br> 
   I mean, to me I think it’s quite obvious and I’ve never hidden it. But literally no one knew. 
-  So when I eventually found my life partner and settled down everyone I’d met over the last 5 years were shocked to say the least. 
+  So when I eventually found my life partner and settled down everyone I’d met over the last 6 years were shocked to say the least. 
 <br>
 I find it so frustrating!<br>
 <br>
