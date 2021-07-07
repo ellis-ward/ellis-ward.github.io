@@ -13,6 +13,11 @@ To Ellis’ annoyance...<br>
     <br>
     We are now apparently exercising. Anyone that knows me knows that I do not exercise and have not broken a sweat in almost 9 years. <br>
     This being because I am, when it comes to my physical health, the laziest person I know. Literally. <br>
+    Well, a slight lie. I do break a sweat regularly, but it's not from exercise it's from doing normal day to do day tasks that shouldn't make me a sweaty mess. Like going to the allotment or helping my baby bro with his flat. Or walking up the stairs. <br>
+    <div class="text-center">
+  <br/>
+  <img src="{{ site.baseurl }}/img/6C9766D4-EC35-46C5-A49F-8E78357D38C3.jpg" height="400" width ="400"/>
+</div><br>
     <br>
 To anyone that missed it there is a clip from a video I posted back in May 2020 which summarises this exact blog post perfectly at the bottom of this post.    <br>
  <br>
