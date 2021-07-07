@@ -11,7 +11,7 @@ tags: irritation
 
 To Ellis’ annoyance...<br>
     <br>
-    We are now apparently exercising. <br>
+    We are now apparently exercising. <br><br>
     Anyone that knows me knows that I do not exercise and have not broken a sweat in almost 9 years. <br>
     This being because I am, when it comes to my physical health, the laziest person I know. Literally. <br>
     Well, a slight lie. I do break a sweat regularly, but it's not from exercise it's from doing normal day to do day tasks that shouldn't make me a sweaty mess. Like going to the allotment or helping my baby bro with his flat. Or walking up the stairs. <br>
