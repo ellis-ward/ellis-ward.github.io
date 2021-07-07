@@ -29,6 +29,8 @@ navbar-links:
   About Me: "aboutme"
 
   Allotment: "allotment"
+  
+  Irritation: "irritation"
 
   # Resources:
     # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
