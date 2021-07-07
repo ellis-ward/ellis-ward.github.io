@@ -12,7 +12,7 @@ tags: irritation
 To Ellis’ annoyance we are now apparently exercising. Anyone that knows me knows that I do not exercise and have not broken a sweat in almost 9 years. This being because I am, when it comes to my physical health, the laziest person I know. Literally. To anyone that missed it here is a clip from a video I posted back in May 2020 which summarises this exact blog post perfectly.
    
 
-    <iframe width="560" height="315" src="https://www.facebook.com/100005744015980/videos/1362999067234881/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="http://www.facebook.com/video/embed?video_id=1362999067234881" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <p>Ok, so Calum James Ironside decided it would be hilarious to nominate me for the #25pushupchallenge... 
 
 As I am physically not capable of doing a push-up, nor do i have the ability to maintain a straight back or good arm position I shall do this once and only once. Or I will end up hurting myself 😂 
