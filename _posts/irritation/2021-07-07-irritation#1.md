@@ -20,7 +20,8 @@ To Ellis’ annoyance...<br>
   <br/>
   <img src="{{ site.baseurl }}/img/6C9766D4-EC35-46C5-A49F-8E78357D38C3.jpg" height="400" width ="400"/>
 </div><br>
-To anyone that missed it there is a clip from a video I posted back in May 2020 which summarises this exact blog post perfectly at the bottom of this post.    <br>
+To anyone that missed it here is a clip from a video I posted back in May 2020 which summarises this exact blog post perfectly.    <br>
+        <div style="max-width:600px;min-width:200px;position:relative;margin: 5px auto;"><a class="embedly-card"  data-card-controls="0" href="https://www.facebook.com/ellis.ward.161/videos/1362999067234881"></a><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script><div style="position: absolute;width: 80%;bottom: 7px;left: 0;right: 0;margin-left: auto;margin-right: auto;color: #000;text-align: center;"><small style="line-height:1.8;font-size:2px;background:#fff;"></small></div></div><br>
  <br>
 So, anyway, we’re exercising (I think!)<br>
 <br>
@@ -37,7 +38,4 @@ Erm…. I’m not sure about that! <br>
   <img src="{{ site.baseurl }}/img/20210707julyplan.png"/>
 </div><br>
     
-    <div style="max-width:600px;min-width:200px;position:relative;margin: 5px auto;"><a class="embedly-card"  data-card-controls="0" href="https://www.facebook.com/ellis.ward.161/videos/1362999067234881"></a><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script><div style="position: absolute;width: 80%;bottom: 7px;left: 0;right: 0;margin-left: auto;margin-right: auto;color: #000;text-align: center;"><small style="line-height:1.8;font-size:2px;background:#fff;"></small></div></div>
-
-
 </font>
