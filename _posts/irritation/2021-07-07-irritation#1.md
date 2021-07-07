@@ -32,7 +32,8 @@ We’re 2 days in now and so far I’ve done a few sit up and push ups and then 
 <br><br>
 I mean, in Yssis beautiful plan (let’s all appreciate her efforts here) we are <i>apparently</i> doing 50 sit ups, 40 push ups, 10 reps of weights and 40 squats. <br>
 Erm…. I’m not sure about that! <br>
-<br>
+<br><br>
+    <b>Roll on the rest days!</b> 
 <div class="text-center">
   <br/>
   <img src="{{ site.baseurl }}/img/20210707julyplan.png"/>
