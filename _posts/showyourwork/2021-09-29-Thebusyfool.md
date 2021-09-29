@@ -2,7 +2,7 @@
 layout: post
 title: The busy fool
 Subtitle: Why people constantly fail
-tags: irritation
+tags: showyourwork
 ---
 
 Over the last few years in the Manufacturing Industry I’ve noticed a lot of people making the same mistakes, over and over again. Not necessarily the exact same mistake but the same trend is present for which they are running around being busy fools. Whether it’s with physical hands-on tasks or with computer based tasks there are so many people working in this industry that are running around achieving very little, but are always busy. It’s not like there aren’t a number of books, theories, methodologies that pin this industry that should be making their lives easier! I often think, do they not know what the Toyota Production System is, have they never heard of Henry Ford's Production Line or The New Manufacturing Challenge? Clearly this information, although it should be, is not common knowledge to most people in the Manufacturing Industry; well at least not from what I have seen. 
