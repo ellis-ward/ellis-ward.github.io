@@ -4,7 +4,9 @@ title: The busy fool
 Subtitle: Why people constantly fail
 tags: showyourwork
 ---
-
+<div class="text-left">
+<div class="boxed">
+  <font size="2">
 Over the last few years in the Manufacturing Industry I’ve noticed a lot of people making the same mistakes, over and over again. Not necessarily the exact same mistake but the same trend is present - for which they are running around being busy fools. Whether it’s with physical hands-on tasks or with computer based tasks there are so many people working in this industry that are running around achieving very little, but are always busy. It’s not like there aren’t a number of books, theories, methodologies that pin this industry that should be making their lives easier, right?! I often think, do they not know what the Toyota Production System is, have they never heard of Henry Ford or The New Manufacturing Challenge? Clearly this information, although it should be, is not common knowledge to most people in the Manufacturing Industry; well at least not from what I have seen.<br> 
 
 <h1>Why are so many people extremely busy, but achieving very little?</h1><br>
@@ -50,3 +52,4 @@ To-do lists are a waste of time, I often find myself writing to-do lists and re-
 <h3>Priorities</h3>
 
 Realistically the most important aspect of my productivity from day to day is my priority list, I don’t pay much attention to other people's priorities. I focus solely on my own; as I am the one who is making the job get done. I prioritise based on value, time, ease and complexity. I find that the most valuable tasks take the most amount of time and are the most complex to complete, where the least valuable tasks are easy and quick to complete, with very little complexity. Does this mean that smaller tasks are not important? Not at all, it just means that unless a task can be achieved within two minutes then I do not do it right away and it goes into my priority list; based on my criteria. It’s far too easy for someone to ask you to do something or answer a question that they could do themselves or research themselves, because it’s easier to get someone else to do something for you. This is understood, and often respected for the courage to ask, however if you react every time you’re asked to do something you end up being a busy fool. Doing everyone else's job or running around doing a lot to achieve very little. After all, they always say “if you want a job done ask the busy person, there’s a reason they’re busy”. Who’s the fool now? It isn’t the one asking. 
+  </font>
