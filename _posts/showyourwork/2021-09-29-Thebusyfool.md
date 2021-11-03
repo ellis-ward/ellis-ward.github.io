@@ -2,7 +2,7 @@
 layout: post
 title: The busy fool
 Subtitle: Why people constantly fail
-tags: showyourwork
+tags: rememberthis
 ---
 <div class="text-left">
 <div class="boxed">
