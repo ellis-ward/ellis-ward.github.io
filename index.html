@@ -6,16 +6,11 @@ use-site-title: true
 ---
 <br>
 
-<div class="text-center"><font size="2">You can subscribe to get updates when I post something new here -> <a href="/subscribe">Subscription form</a></font></div>
- <br><br>
-<div class="text-left">
-  <div class="boxed">
-    <font size="2">
 
 </div>
 
 <div class="posts-list">
-  {% for post in paginator.posts offset:0 limit:2 %}
+  {% for post in paginator.posts offset:0 limit:5 %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
