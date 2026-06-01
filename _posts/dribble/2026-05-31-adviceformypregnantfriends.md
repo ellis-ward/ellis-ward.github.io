@@ -53,11 +53,19 @@ tags: dribble
 
 <h2>post pregnancy</h2>
 
+- For the first 5 days I think I slept approx 4 hours. You will be tired. 
+
 - Write everything down, you will forget within seconds and then wish you had. 22/05/25 Owen laughed for the first time. Id have never remembered that had I not wrote it down, I can barely remember what we had for tea yesterday anymore
 
 - Try and get out the house for short walks, it's good for you and baby 
 
 - Accept help - and food - you'll need it
+
+- Took approx 8 weeks to fully heal and my stomach to reduce down 
+
+- Was approx 2 months before Owen would be put down to sleep. Don't panic. Just enjoy the cuddles
+
+- Make sure you set up shifts for the night. You don't need to both be up at the same time, we tried this it was such a silly idea as we were both just exhausted. 
 
 <h2>things you really do / don't need to buy</h2>
 
