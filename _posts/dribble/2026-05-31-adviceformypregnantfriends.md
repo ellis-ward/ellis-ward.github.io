@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Advice
-Subtitle: for my pregnant friend
+title: Advice for my pregnant friend
+Subtitle:  
 tags: dribble 
 ---
 
