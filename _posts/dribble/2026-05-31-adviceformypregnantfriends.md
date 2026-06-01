@@ -68,3 +68,7 @@ tags: dribble
 - Don't buy too many breast feeding gadgets incase it doesn't work because you'll waste your money. most things are on Amazon (pumps etc.) get them when you know you're maintaining a good feed.
 
 - Don't buy a Haka, they're rubbish! 
+
+- https://amzn.eu/d/086HSQN7
+
+- We preferred Asda nappies for first size 
