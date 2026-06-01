@@ -5,6 +5,12 @@ Subtitle:
 tags: dribble 
 ---
 
+<h2>general</h2>
+
+- The baby markets are great www.babyandchildrensmarket.co.uk 
+
+- Have a look at the Family hub I found it very beneficial for both Owen and I  https://share.google/mgVcdOgWoRtuDTPny
+
 <h2>pregnancy</h2>
 
 - Ginger biscuits will help with nausea 
@@ -47,11 +53,17 @@ tags: dribble
 
 <h2>post pregnancy</h2>
 
-- Write everything down, you will forget within seconds and then wish you had. 22/05/25 Owen laughed for the first time. Id have never remembered that had I not wrote it down, I can barely remember what we had for tea yesterday anymore. 
+- Write everything down, you will forget within seconds and then wish you had. 22/05/25 Owen laughed for the first time. Id have never remembered that had I not wrote it down, I can barely remember what we had for tea yesterday anymore
 
-<h2>things you really need to buy</h2>
+- Try and get out the house for short walks, it's good for you and baby 
+
+- Accept help - and food - you'll need it
+
+<h2>things you really do / don't need to buy</h2>
 
 - Next to me cot (for the first 6 months)
+
+- Baby bath 
 
 - Don't buy too many breast feeding gadgets incase it doesn't work because you'll waste your money. most things are on Amazon (pumps etc.) get them when you know you're maintaining a good feed.
 
