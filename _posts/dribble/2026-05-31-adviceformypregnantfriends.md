@@ -51,6 +51,8 @@ tags: dribble
 
 - Research internal cervix dilation checks, you don't have the have them, they hurt, if you're not dilated enough when you get to the hospital they will send you home - if they don't check they won't know. It really hurts. 
 
+- Try and wee before your labour gets too far gone. if your bladder is full they will need to put a catheter in to empty it or your bladder can get damaged. 
+
 <h2>post pregnancy</h2>
 
 - You will have to really squeeze your nipples to get the colostrum out to feed baby. It will hurt. Do it
