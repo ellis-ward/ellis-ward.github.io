@@ -82,3 +82,5 @@ tags: dribble
 - https://amzn.eu/d/086HSQN7
 
 - We preferred Asda nappies for first size 
+
+- Extra large muslins are pretty useless opt for fabric square size
