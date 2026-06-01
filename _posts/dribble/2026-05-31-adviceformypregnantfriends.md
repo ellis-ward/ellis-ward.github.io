@@ -12,7 +12,10 @@ tags: dribble
 <h2>things to pack for labour</h2>
 
 - A portable fan!
+
 - You will need these! - Always Discreet for Sensitive Bladder Pants (5 Drop) Medium - 72 Pants (6 pack bundle) - Boots https://share.google/FjNU6mHVNAngE9112
+
+- Premade first milk in small bottles. I used this to drip onto my nipple to get Owen interested
 
 <h2>labour</h2>
 
@@ -20,10 +23,14 @@ tags: dribble
 
 - If you back hurts ask for a heat pad - they will not give you one unless you ask and it helps so much 
 
+- You will have to really squeeze your nipples to get the colostrum out. It will hurt. Do it.
+
 <h2>post pregnancy</h2>
 
 - Write everything down, you will forget within seconds and then wish you had. 22/05/25 Owen laughed for the first time. Id have never remembered that had I not wrote it down, I can barely remember what we had for tea yesterday anymore. 
 
 <h2>things you really need to buy</h2>
 
-- 
+- Don't buy too many breast feeding gadgets incase it doesn't work because you'll waste your money. most things are on Amazon (pumps etc.) get them when you know you're maintaining a good feed.
+
+- Don't buy a Haka, they're rubbish! 
