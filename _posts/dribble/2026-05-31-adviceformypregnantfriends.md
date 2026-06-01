@@ -13,7 +13,7 @@ tags: dribble
 
 - Research labour medication. I took Pethidine, I regret it, it made me extremely lethargic which was great for the pain I was in.... But it slowed the labour down to basically nothing. 
 
-- Note that if you had an induction they will not let you in the labour room, they don't tell you this. this labour room is far nicer. Ask for a look when you're at the hospital it will be worth seeing it.
+- Note that if you had an induction they will not let you in the labour room, they don't tell you this. this labour room is far nicer. Ask for a look when you're at the hospital it will be worth seeing it. The pool was amazing and if you can get it get it (they're not always available)
 
 <h2>things to pack for labour</h2>
 
@@ -37,7 +37,13 @@ tags: dribble
 
 - If you back hurts ask for a heat pad - they will not give you one unless you ask and it helps so much 
 
-- You will have to really squeeze your nipples to get the colostrum out to feed baby. It will hurt. Do it.
+- You will have to really squeeze your nipples to get the colostrum out to feed baby. It will hurt. Do it
+
+- Practice your pelvic floor. You push backwards, almost like you're having a poo, rather than down
+
+- Try and rest as much as you can during early labour, you will need the energy
+
+- Research internal cervix dilation checks, you don't have the have them, they hurt, if you're not dilated enough when you get to the hospital they will send you home - if they don't check they won't know. It really hurts. 
 
 <h2>post pregnancy</h2>
 
