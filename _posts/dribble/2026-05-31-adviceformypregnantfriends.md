@@ -39,7 +39,9 @@ tags: dribble
 
 - Snacks / fluids for you AND your partner 
 
-- I wore long t-shirt dresses in labour or was naked. Note though that if you're being monitored you will need something that they can access around your waste to put the belts 
+- I wore long t-shirt dresses in labour or was naked. Note though that if you're being monitored you will need something that they can access around your waste to put the belts
+
+- Get this - if you split or get cut you will need it - https://myexpertmidwife.com/products/spritz-for-bits
 
 <h2>labour</h2>
 
@@ -86,3 +88,5 @@ tags: dribble
 - We preferred Asda nappies for first size 
 
 - Extra large muslins are pretty useless opt for fabric square size
+
+- Really useful if baby has trapped gas https://www.boots.com/infacol-oral-suspension-55ml-10257859
