@@ -45,7 +45,7 @@ tags: dribble
 
 - If you back hurts ask for a heat pad - they will not give you one unless you ask and it helps so much 
 
-- Practice your pelvic floor. You push back to front, almost like you're having a poo, rather than down
+- Practice your pelvic floor. You push back to front, almost like you're having a poo, rather than your normal pelvic floor exercises 
 
 - Try and rest as much as you can during early labour, you will need the energy
 
