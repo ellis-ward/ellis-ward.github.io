@@ -13,6 +13,8 @@ tags: dribble
 
 - Write everything down, you will forget within seconds and then wish you had. I started when Owen was 2 months. 22/05/25 Owen laughed for the first time. Id have never remembered that had I not wrote it down, I can barely remember what we had for tea yesterday anymore
 
+- Get someone to go on Facebook for you and look for clothes. they hardly get worn and we managed to get 0-12 months for like £60. saved a ton of money
+
 <h2>pregnancy</h2>
 
 - Ginger biscuits will help with nausea 
