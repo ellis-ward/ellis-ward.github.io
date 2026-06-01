@@ -11,6 +11,8 @@ tags: dribble
 
 - Have a look at the Family hub I found it very beneficial for both Owen and I  https://share.google/mgVcdOgWoRtuDTPny
 
+- Write everything down, you will forget within seconds and then wish you had. I started when Owen was 2 months. 22/05/25 Owen laughed for the first time. Id have never remembered that had I not wrote it down, I can barely remember what we had for tea yesterday anymore
+
 <h2>pregnancy</h2>
 
 - Ginger biscuits will help with nausea 
@@ -43,8 +45,6 @@ tags: dribble
 
 - If you back hurts ask for a heat pad - they will not give you one unless you ask and it helps so much 
 
-- You will have to really squeeze your nipples to get the colostrum out to feed baby. It will hurt. Do it
-
 - Practice your pelvic floor. You push backwards, almost like you're having a poo, rather than down
 
 - Try and rest as much as you can during early labour, you will need the energy
@@ -53,9 +53,9 @@ tags: dribble
 
 <h2>post pregnancy</h2>
 
-- For the first 5 days I think I slept approx 4 hours. You will be tired. 
+- You will have to really squeeze your nipples to get the colostrum out to feed baby. It will hurt. Do it
 
-- Write everything down, you will forget within seconds and then wish you had. 22/05/25 Owen laughed for the first time. Id have never remembered that had I not wrote it down, I can barely remember what we had for tea yesterday anymore
+- For the first 5 days I think I slept approx 4 hours. You will be tired. You will get through it
 
 - Try and get out the house for short walks, it's good for you and baby 
 
