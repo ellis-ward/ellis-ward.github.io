@@ -12,6 +12,7 @@ tags: dribble
 <h2>things to pack for labour</h2>
 
 - A portable fan!
+- You will need these! - Always Discreet for Sensitive Bladder Pants (5 Drop) Medium - 72 Pants (6 pack bundle) - Boots https://share.google/FjNU6mHVNAngE9112
 
 <h2>labour</h2>
 
