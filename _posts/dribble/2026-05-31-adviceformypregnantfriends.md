@@ -59,6 +59,8 @@ tags: dribble
 
 <h2>post pregnancy</h2>
 
+- You need to note down wee / poo in the hospital and at home. they won't let you go home until your baby has had both. the nappy will have a blue line when your baby has had a wee. we didn't know this, so didn't write it down, and had to wait for Owen to have another wee!
+
 - You will have to really squeeze your nipples to get the colostrum out to feed baby. It will hurt. Do it
 
 - For the first 5 days I think I slept approx 4 hours. You will be tired. You will get through it
