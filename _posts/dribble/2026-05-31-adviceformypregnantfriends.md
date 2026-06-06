@@ -118,3 +118,5 @@ tags: dribble
 -  get a red light, helps baby in the night
 
 - we got a baby monitor early. if baby sleeps in next to me and falls asleep in pram it's useful https://amzn.eu/d/05PQl7Em
+
+- we made Owen little breast milk ice pops https://amzn.eu/d/09PCz9x8
