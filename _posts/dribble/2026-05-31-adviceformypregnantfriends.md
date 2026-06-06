@@ -93,6 +93,8 @@ tags: dribble
 
 - if you hold your baby face down on your arm and their legs are straight they've got trapped gas. you can rotate the legs to help 
 
+- the baby blues didn't get my until I stopped breastfeeding but you can get it straight after birth. it's tough. be kind to yourself. you will cry a lot and feel very down. 
+
 <h2>things you really do / don't need to buy</h2>
 
 - Next to me cot (for the first 6 months)
