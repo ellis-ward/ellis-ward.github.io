@@ -47,6 +47,8 @@ tags: dribble
 
 - Get this - if you split or get cut you will need it - https://myexpertmidwife.com/products/spritz-for-bits
 
+- Your birth plan printed. make sure the midwife reads it and respects it 
+
 <h2>labour</h2>
 
 - Don't stress too much about your ideal birth. You'll never know until you're in the moment, then just go with what feels right!
