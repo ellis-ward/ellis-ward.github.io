@@ -111,4 +111,6 @@ tags: dribble
 
 - Really useful if baby has trapped gas https://www.boots.com/infacol-oral-suspension-55ml-10257859
 
-- sleeping back is a must. swaddling is hard work 
+- sleeping sack is a must. swaddling is hard work
+
+-  get a red light, helps baby in the night
