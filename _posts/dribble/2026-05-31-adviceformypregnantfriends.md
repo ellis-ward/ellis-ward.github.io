@@ -85,6 +85,8 @@ tags: dribble
 
 - Make sure you set up shifts for the night. You don't need to both be up at the same time, we tried this it was such a silly idea as we were both just exhausted. 
 
+- Keep babies feet warm. socks / onesies. it will help them sleep. 
+
 <h2>things you really do / don't need to buy</h2>
 
 - Next to me cot (for the first 6 months)
@@ -102,3 +104,5 @@ tags: dribble
 - Extra large muslins are pretty useless opt for fabric square size
 
 - Really useful if baby has trapped gas https://www.boots.com/infacol-oral-suspension-55ml-10257859
+
+- sleeping back is a must. swaddling is hard work 
