@@ -89,6 +89,10 @@ tags: dribble
 
 - Keep babies feet warm. socks / onesies. it will help them sleep. 
 
+- burping is a must 
+
+- if you hold your baby face down on your arm and their legs are straight they've got trapped gas. you can rotate the legs to help 
+
 <h2>things you really do / don't need to buy</h2>
 
 - Next to me cot (for the first 6 months)
