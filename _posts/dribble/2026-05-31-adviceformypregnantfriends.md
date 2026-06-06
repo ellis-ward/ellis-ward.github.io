@@ -25,6 +25,10 @@ tags: dribble
 
 - Note that if you had an induction they will not let you in the labour room, they don't tell you this. this labour room is far nicer. Ask for a look when you're at the hospital it will be worth seeing it. The pool was amazing and if you can get it get it (they're not always available)
 
+- don't panic if you don't get any colostrum before you give birth, not everyone does 
+
+- if you're not taking folic acid start taking it now 
+
 <h2>things to pack for labour</h2>
 
 - Hospital bag checklist - Best Start in Life - NHS https://share.google/WZPo6irKnYQQ6hzrB
