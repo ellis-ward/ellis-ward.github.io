@@ -97,7 +97,7 @@ tags: dribble
 
 - Don't buy a Haka, they're rubbish! 
 
-- https://amzn.eu/d/086HSQN7
+- https://amzn.eu/d/086HSQN7 Owen didn't start interacting with anything until 3 months, and then this was where we put him to interact with toys / tummy time etc. they're very good. you won't need much else before then 
 
 - We preferred Asda nappies for first size 
 
