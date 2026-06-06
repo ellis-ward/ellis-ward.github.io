@@ -49,6 +49,8 @@ tags: dribble
 
 - Your birth plan printed. make sure the midwife reads it and respects it 
 
+- Don't take too much with you into the hospital because if there are complications and you need to go to theatre you will be rushed in. Have a car seat etc. in the car to collect when you know you're going home. it won't be straight away
+
 <h2>labour</h2>
 
 - Don't stress too much about your ideal birth. You'll never know until you're in the moment, then just go with what feels right!
