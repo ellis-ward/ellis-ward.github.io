@@ -15,6 +15,8 @@ tags: dribble
 
 - Get someone to go on Facebook for you and look for clothes. they hardly get worn and we managed to get 0-12 months for like £60. saved a ton of money
 
+- We have a sleepy mix on Spotify. we've played it since new born. helpednowen sooth until 14 months. 
+
 <h2>pregnancy</h2>
 
 - Ginger biscuits will help with nausea 
