@@ -35,7 +35,7 @@ tags: dribble
 
 - Hospital bag checklist - Best Start in Life - NHS https://share.google/WZPo6irKnYQQ6hzrB
 
-- Reusable breast pads
+- Reusable breast pads  https://www.amazon.co.uk/dp/B07S7GQ2T8?ref=ppx_pop_mob_ap_share
 
 - A portable fan!
 
@@ -103,7 +103,7 @@ tags: dribble
 
 - Don't buy too many breast feeding gadgets incase it doesn't work because you'll waste your money. most things are on Amazon (pumps etc.) get them when you know you're maintaining a good feed.
 
-- Don't buy a Haka, they're rubbish! 
+- Don't buy a Haka, they're rubbish! get themselves instead - Lictin Breast Shells, 2PCS Milk... https://www.amazon.co.uk/dp/B0CTXZH3TY?ref=ppx_pop_mob_ap_share
 
 - https://amzn.eu/d/086HSQN7 Owen didn't start interacting with anything until 2 months, and then this was where we put him to interact with toys / tummy time etc. they're very good. you won't need much else before then. at that point a few gumming items is about it really 
 
@@ -120,3 +120,12 @@ tags: dribble
 - we got a baby monitor early. if baby sleeps in next to me and falls asleep in pram it's useful https://amzn.eu/d/05PQl7Em
 
 - we made Owen little breast milk ice pops https://amzn.eu/d/09PCz9x8
+
+- Tiny Love Take Along Mobile,... https://www.amazon.co.uk/dp/B07MXMGRY2?ref=ppx_pop_mob_ap_share
+
+- Rockit Rocker Rechargeable - Baby... https://www.amazon.co.uk/dp/B0BNP1G2ZD?ref=ppx_pop_mob_ap_share
+
+- Lansinoh HPA Lanolin Nipple Cream... https://www.amazon.co.uk/dp/B00432ID82?ref=ppx_pop_mob_ap_share
+
+- Bright Starts Oball Easy Grasp... https://www.amazon.co.uk/dp/B00ZRD99C0?ref=ppx_pop_mob_ap_share
+
